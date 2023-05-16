@@ -7,7 +7,7 @@ window.addEventListener("scroll", (event) => {
         document.getElementById("mask1").style.left = "-590px";
     }
     if (document.body.scrollTop > 250) {
-        document.getElementById("mask2").style.right = "-120vw";
+        document.getElementById("mask2").style.right = "-100vw";
 
     } else {
         document.getElementById("mask2").style.right = "-145vw";
